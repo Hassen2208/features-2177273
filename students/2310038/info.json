@@ -1,0 +1,7 @@
+{
+    "nombre": "Juan Moreno",
+    "edad": 21,
+    "carrera": "Ingeniería de Sistemas",
+    "semestre": 6,
+    "gustos" : ["Futbol","Caminar", "Lucha", "Viajar"]
+}
