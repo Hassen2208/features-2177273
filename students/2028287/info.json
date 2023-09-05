@@ -1,0 +1,7 @@
+{
+    "nombre": "Diana Micolta",
+    "edad": 23,
+    "carrera": "Ingeniería de Sistemas",
+    "semestre": 6,
+    "gustos" : ["Baloncesto","Caminar", "Leer", "Viajar"]
+}
