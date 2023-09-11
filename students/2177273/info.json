@@ -1,7 +1,8 @@
 {
-  "nombre": "Hassen Ortiz",
+  "nombre": "Hassen David Ortiz",
   "edad": 24,
   "carrera": "Ingeniería de sistemas",
-  "semestre": 5,
-  "gustos": ["Anime", "Cocinar", "Música", "Karate"]
+  "semestre": 6,
+  "gustos": ["Videojuegos", "Anime", "Karate", "KPop"]
+
 }
