@@ -1,0 +1,7 @@
+{
+    "nombre": "Javier Diaz",
+    "edad": 24,
+    "carrera": "Ingeniería en Sistemas",
+    "semestre": 6,
+    "gustos" : ["Deporte","Videojuegos","Viajar"]
+}

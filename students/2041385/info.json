@@ -1,0 +1,7 @@
+{
+    "nombre": "Daniel Cardona",
+    "edad": 23,
+    "carrera": "Ingeniería de sistemas",
+    "semestre": 7,
+    "gustos" : ["Ping Pong","videojuegos", "futbol", "Viajar", "Peliculas"]
+}

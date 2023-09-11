@@ -1,0 +1,7 @@
+{
+    "nombre": "Marcela Mazo",
+    "edad": 23,
+    "carrera": "Ingeniería de sistemas",
+    "semestre": 6,
+    "gustos" : ["Artes marciales","Comer", "Videojuegos", "Viajar"]
+}

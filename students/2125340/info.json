@@ -1,0 +1,7 @@
+{
+  "nombre": "Jose Luis",
+  "edad": 20,
+  "carrera": "Ingeniería de Sistemas",
+  "semestre": 10,
+  "gustos" : ["Azur Lane","Nadar", "Escuchar Musica", "Viajar"]
+}
